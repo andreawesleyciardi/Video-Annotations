@@ -1,4 +1,4 @@
-# ReachIndustries
+# Reach Industries
 
 Technical assignement for the open position of Senior Frontend Developer at ReachIndustries.
 
